@@ -1,0 +1,26 @@
+[
+  {
+    "id": "HTML",
+    "name": "HTML",
+    "subtitle": "Modern Basics",
+    "description": "Web ki basic foundation aur architecture seekhein hamare interactive mode ke saath.",
+    "status": "Active",
+    "icon": "Code2"
+  },
+  {
+    "id": "CSS",
+    "name": "CSS",
+    "subtitle": "Layout & Design",
+    "description": "Design aur styling ki duniya mein kadam rakhein. Flexbox se lekar Animations tak sab seekhein.",
+    "status": "Active",
+    "icon": "Layers"
+  },
+  {
+    "id": "Java script",
+    "name": "Java script",
+    "subtitle": "New Topic",
+    "description": "Landing page description for this topic.",
+    "status": "Coming Soon",
+    "icon": "Code2"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "html-introduction",
+    "slug": "html-introduction",
+    "title": "HTML Introduction",
+    "course": "HTML",
+    "description": "",
+    "chapterOrder": 1,
+    "blocks": [
+      {
+        "id": "block-1774892105206-jodn5",
+        "type": "heading",
+        "visibleText": "HTML Introduction",
+        "teachingScript": {
+          "step": 0,
+          "transcript": "Toh chaliye shuru karte hain HTML ka introduction.\nAgar aap web development seekhna chahte ho, toh HTML sabse pehla aur basic step hota hai.",
+          "action": "speak",
+          "duration": 7785,
+          "fileName": "html intro.mp3",
+          "audioUrl": "http://localhost:5000/audio/audio-1774893727112-z4fd4.mp3",
+          "uploadedName": "audio-1774893727112-z4fd4.mp3"
+        }
+      },
+      {
+        "id": "block-1774904458469-w5rda",
+        "type": "highlightable_text",
+        "visibleText": "HTML ka full form hai HyperText Markup Language.\nYe ek markup language hai jo webpages ka structure banane ke liye use hoti hai.",
+        "teachingScript": {
+          "step": 1,
+          "transcript": "HTML ka full form hai HyperText Markup Language.\nYe ek markup language hai jo webpages ka structure banane ke liye use hoti hai.",
+          "action": "speak",
+          "duration": 7132,
+          "audioUrl": "http://localhost:5000/audio/audio-1774904671774-ej6to.mp3",
+          "fileName": "para 2.mp3",
+          "uploadedName": "audio-1774904671774-ej6to.mp3"
+        }
+      },
+      {
+        "id": "block-1774905427932-m5vvl",
+        "type": "code",
+        "visibleText": "<p>This is a paragraph</p>",
+        "language": "html",
+        "teachingScript": {
+          "step": 2,
+          "transcript": "Chaliye samajhte hain.\nYahan humne paragraph likha hai.\nAngular bracket P angular bracket se paragraph start hota hai,\naur angular bracket slash P angular bracket se end hota hai.\nBeech ka jo text hai, wahi screen par dikhai deta hai.",
+          "action": "speak",
+          "duration": 11834,
+          "audioUrl": "http://localhost:5000/audio/audio-1774905682558-trdlx.mp3",
+          "fileName": "para 3.mp3",
+          "uploadedName": "audio-1774905682558-trdlx.mp3"
+        }
+      },
+      {
+        "id": "block-1774984536128-lobkr",
+        "type": "highlightable_text",
+        "visibleText": "HTML tags ke through kaam karta hai.\nHar element ek tag ke andar likha hota hai.",
+        "teachingScript": {
+          "step": 3,
+          "transcript": "HTML tags ke through kaam karta hai.\nHar element ek tag ke andar likha hota hai.",
+          "action": "speak",
+          "duration": 3000
+        }
+      }
+    ]
+  },
+  {
+    "id": "html-element",
+    "slug": "html-element",
+    "title": "HTML Element",
+    "course": "HTML",
+    "description": "",
+    "chapterOrder": 2,
+    "blocks": [
+      {
+        "id": "block-1774932092021-jiuqi",
+        "type": "heading",
+        "visibleText": "HTML Element",
+        "teachingScript": {
+          "step": 0,
+          "transcript": "",
+          "action": "speak",
+          "duration": 3000
+        }
+      }
+    ]
+  },
+  {
+    "id": "introduction-of-css",
+    "slug": "introduction-of-css",
+    "title": "introduction of css",
+    "course": "CSS",
+    "description": "",
+    "chapterOrder": 1,
+    "blocks": [
+      {
+        "id": "block-1775232209192-h2jw0",
+        "type": "heading",
+        "visibleText": "Introduction of CSS\n",
+        "teachingScript": {
+          "step": 0,
+          "transcript": "",
+          "action": "speak",
+          "duration": 3500
+        }
+      }
+    ]
+  }
+]
